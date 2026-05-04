@@ -1,0 +1,13 @@
+- title: "Category Theory for Programmers"
+  author: "Bartosz Milewski"
+  date: "2016-01-01"
+  categories: [Vídeo-aula, Introdutório, Inglês]
+  description: "Série de vídeo-aulas no YouTube que apresenta Teoria das Categorias com foco em programação funcional."
+  path: "https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_"
+
+- title: "The Catsters"
+  author: "Eugenia Cheng e Simon Willerton"
+  date: "2008-01-01"
+  categories: [Vídeo-aula, Intermediário, Inglês]
+  description: "Série clássica de vídeos curtos no YouTube cobrindo tópicos variados de Teoria das Categorias."
+  path: "https://www.youtube.com/user/TheCatsters"

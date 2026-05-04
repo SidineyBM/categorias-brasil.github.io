@@ -1,0 +1,14 @@
+---
+title: "III Encontro Brasileiro em Teoria das Categorias (EBTC2026)"
+date: "2026-05-04"
+categories: ["MG", "Híbrido"]
+---
+
+O principal evento brasileiro em Teoria das Categorias está na sua terceira edição! O EBTC ocorre desde 2021, a cada dois anos,
+e neste mês de maio, entre os dias 25 e 29, ele será sediado em Juiz de Fora, MG, na Universidade Federal de Juiz de Fora (UFJF), de forma híbrida.
+
+Na página do evento há informações sobre a programação do evento, minicursos, palestras, e até mesmo questões de transporte e hospedagem.
+O EBTC2026 contará com palestras, mini-cursos e apresentação de pôsteres.
+
+## Site do Evento
+<https://terceiro.encontrocategorico.mat.br>

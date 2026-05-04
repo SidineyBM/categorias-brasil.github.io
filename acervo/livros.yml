@@ -1,0 +1,83 @@
+- title: "The Joy of Abstraction"
+  author: "Eugenia Cheng"
+  date: "2022-01-01"
+  categories: [Livro, Introdutório, Inglês]
+  description: "Uma introdução gentil e acessível ao pensamento categórico, ideal como primeiro contato com a Teoria das Categorias."
+  path: "https://www.cambridge.org/core/books/joy-of-abstraction/00D9AFD3046A406CB85D1AFF5450E657"
+
+- title: "Category Theory"
+  author: "Steve Awodey"
+  date: "2010-01-01"
+  categories: [Livro, Introdutório, Inglês]
+  description: "Uma excelente introdução com poucos pré-requisitos. Recomendado como segundo livro após The Joy of Abstraction."
+  path: "https://books.google.com.br/books?id=UCgUDAAAQBAJ"
+
+- title: "Topoi: The Categorial Analysis of Logic"
+  author: "Robert Goldblatt"
+  date: "1979-01-01"
+  categories: [Livro, Introdutório, Inglês]
+  description: "Introdução à teoria de topos. Os primeiros capítulos também servem como uma ótima introdução à Teoria das Categorias."
+  path: "https://projecteuclid.org/ebooks/books-by-independent-authors/Topoi-The-Categorial-Analysis-of-Logic/toc/bia/1403013939"
+
+- title: "Basic Category Theory"
+  author: "Tom Leinster"
+  date: "2014-01-01"
+  categories: [Livro, Introdutório, Inglês]
+  description: "Introdução concisa e autocontida, cobrindo adjunções, o lema de Yoneda e limites."
+  path: "https://arxiv.org/abs/1612.09375"
+
+- title: "Cuadernos de Álgebra — Volumen 2"
+  author: "Oswaldo Lezama Serrano"
+  date: "2020-01-01"
+  categories: [Livro, Introdutório, Espanhol]
+  description: "Categorias são tratadas no capítulo 7. Texto em espanhol."
+  path: "https://repositorio.unal.edu.co/items/6f5d4013-b087-4240-8614-3e2f15d1caa6"
+
+- title: "An Invitation to Applied Category Theory: Seven Sketches in Compositionality"
+  author: "Brendan Fong e David Spivak"
+  date: "2019-01-01"
+  categories: [Livro, Introdutório, Inglês]
+  description: "Introdução à Teoria das Categorias Aplicada com exemplos concretos de diversas áreas da ciência. Disponível gratuitamente no arXiv."
+  path: "https://arxiv.org/abs/1803.05316"
+
+- title: "Category Theory in Context"
+  author: "Emily Riehl"
+  date: "2016-01-01"
+  categories: [Livro, Intermediário, Inglês]
+  description: "Texto moderno e excelente com ênfase em exemplos. Requer alguns pré-requisitos fora de Teoria das Categorias; recomendado após ler Awodey. PDF gratuito disponível no site da autora."
+  path: "https://math.jhu.edu/~eriehl/context/"
+
+- title: "Categories for the Working Mathematician"
+  author: "Saunders Mac Lane"
+  date: "1971-01-01"
+  categories: [Livro, Avançado, Inglês]
+  description: "O livro clássico e seminal de referência. Cobre funtores, transformações naturais, limites, adjunções e monadas."
+  path: "https://link.springer.com/book/10.1007/978-1-4757-4721-8"
+
+- title: "Sheaves in Geometry and Logic"
+  author: "Saunders Mac Lane e Ieke Moerdijk"
+  date: "1992-01-01"
+  categories: [Livro, Avançado, Inglês]
+  description: "Introdução abrangente à teoria de feixes e topos, com aplicações em geometria e lógica."
+  path: "https://link.springer.com/book/10.1007/978-1-4612-0927-0"
+
+- title: "Locally Presentable and Accessible Categories"
+  author: "Jiří Adámek e Jiří Rosický"
+  date: "1994-01-01"
+  categories: [Livro, Avançado, Inglês]
+  description: "Tratamento detalhado de categorias localmente apresentáveis e acessíveis."
+  path: "https://www.cambridge.org/core/books/locally-presentable-and-accessible-categories/94CB48295B6AF097FC232313A57BDE17"
+
+- title: "Coend Calculus"
+  author: "Fosco Loregian"
+  date: "2021-01-01"
+  categories: [Livro, Avançado, Inglês]
+  description: "Referência sobre cálculo de coends e ends, publicado pela Cambridge University Press. Preprint disponível no arXiv."
+  path: "https://arxiv.org/abs/1501.02503"
+
+- title: "Handbook of Categorical Algebra"
+  author: "Francis Borceux"
+  date: "1994-01-01"
+  categories: [Livro, Avançado, Inglês]
+  description: "Obra de referência em 3 volumes cobrindo categorias básicas, categorias e estruturas, e feixes."
+  path: "https://www.cambridge.org/core/books/handbook-of-categorical-algebra/A0B8285BBA900AFE85EED8C971E0DE14"

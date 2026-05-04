@@ -1,9 +1,57 @@
 ---
-listing:
-  contents: acervo
-  type: grid
-page-layout: full
 title: Acervo
 title-block-banner: true
+page-layout: full
+listing:
+  - id: livros
+    contents: acervo/livros.yml
+    type: table
+    sort: title asc
+    fields: [title, author, categories]
+    field-display-names:
+      title: "Título"
+      author: "Autor(a)"
+      categories: "Tags"
+    field-links: [title]
+    table-hover: true
+  - id: videos
+    contents: acervo/videos.yml
+    type: table
+    sort: title asc
+    fields: [title, author, categories]
+    field-display-names:
+      title: "Título"
+      author: "Autor(a)"
+      categories: "Tags"
+    field-links: [title]
+    table-hover: true
+  - id: notas
+    contents: acervo/notas.yml
+    type: table
+    sort: title asc
+    fields: [title, author, categories]
+    field-display-names:
+      title: "Título"
+      author: "Autor(a)"
+      categories: "Tags"
+    field-links: [title]
+    table-hover: true
 ---
 
+Referências bibliográficas, vídeos, apostilas e materiais úteis para o estudo de
+Teoria das Categorias.
+
+## Livros
+
+:::{#livros}
+:::
+
+## Vídeos
+
+:::{#videos}
+:::
+
+## Notas de Aula
+
+:::{#notas}
+:::

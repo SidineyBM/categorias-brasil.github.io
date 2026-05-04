@@ -1,0 +1,13 @@
+- title: "Basic Category Theory and Topos Theory"
+  author: "Jaap van Oosten"
+  date: "2016-01-01"
+  categories: [Notas de Aula, Introdutório, Inglês]
+  description: "Notas de aula da Universidade de Utrecht cobrindo os fundamentos de Teoria das Categorias e uma introdução à teoria de topos."
+  path: "https://webspace.science.uu.nl/~ooste110/syllabi/cattop16.pdf"
+
+- title: "Distributors at Work"
+  author: "Jean Bénabou (notas de Thomas Streicher)"
+  date: "2000-01-01"
+  categories: [Notas de Aula, Avançado, Inglês]
+  description: "Notas de aula sobre distribuidores (profuntores) e suas aplicações, baseadas em palestras de Bénabou em Darmstadt."
+  path: "https://www.mathematik.tu-darmstadt.de/~streicher/FIBR/DiWo.pdf"
