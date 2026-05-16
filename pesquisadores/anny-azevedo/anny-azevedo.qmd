@@ -1,10 +1,10 @@
 ---
 categories:
-- Mestrado
-- Teoria dos Feixes
-- Complexidade Computacional
-- Topologia Geral
-- São Paulo
+- "Cargo: Mestrado"
+- "Área: Teoria dos Feixes"
+- "Área: Complexidade Computacional"
+- "Área: Topologia Geral"
+- "Local: São Paulo"
 title: Anny Beatriz Azevedo
 ---
 

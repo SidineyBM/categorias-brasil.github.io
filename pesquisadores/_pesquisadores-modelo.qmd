@@ -1,6 +1,6 @@
 ---
 title: "Nome do Pesquisador(a)"
-categories: ["Grau ou Cargo", "Área de Pesquisa", "Estado ou Localidade"]
+categories: ["Cargo: Grau ou Cargo", "Área: Área de Pesquisa", "Local: Estado ou Localidade"]
 draft: true
 ---
 
@@ -16,7 +16,7 @@ Nome da Instituição à qual o pesquisador está vinculado
 Lista da formação principal
 
 ## Link para o site pessoal
-<https://seusite.com>
+...
 
 ## Email
-seu_email@exibir.aqui
+...

@@ -1,9 +1,9 @@
 ---
 categories:
-- Doutorado
-- Complexidade Parametrizada
-- Teoria dos Grafos
-- São Paulo
+- "Cargo: Doutorado"
+- "Área: Complexidade Parametrizada"
+- "Área: Teoria dos Grafos"
+- "Local: São Paulo"
 draft: true
 title: Karina Sakurai
 ---

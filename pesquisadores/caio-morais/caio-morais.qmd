@@ -1,8 +1,8 @@
 ---
 categories:
-- Grau ou Cargo
-- Área de Pesquisa
-- Estado ou Localidade
+- "Cargo: Iniciação Científica"
+- "Área: Área de Pesquisa"
+- "Local: Estado ou Localidade"
 draft: true
 title: Caio Morais
 ---

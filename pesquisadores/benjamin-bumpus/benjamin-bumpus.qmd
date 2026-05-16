@@ -1,9 +1,9 @@
 ---
 categories:
-- Professor Doutor
-- Complexidade Computacional
-- Teoria dos Feixes
-- São Paulo
+- "Cargo: Professor Doutor"
+- "Área: Complexidade Computacional"
+- "Área: Teoria dos Feixes"
+- "Local: São Paulo"
 title: Benjamin Merlin Bumpus
 ---
 
@@ -18,31 +18,31 @@ Universidade de São Paulo (USP).
 
 ## Formação Acadêmica
 
-(2025) Professor Doutor
+- (2025) Professor Doutor
 
-       Instituto de Matemática, Estatística e Ciência da Computação (IME)
+  Instituto de Matemática, Estatística e Ciência da Computação (IME)
 
-       Universidade de São Paulo, Brasil
+  Universidade de São Paulo, Brasil
 
-(2023-2025) Research Assistant Professor
+- (2023-2025) Research Assistant Professor
 
-         University of Florida, USA
+  University of Florida, USA
 
-(2022-2023) Postdoctoral Research Fellow
+- (2022-2023) Postdoctoral Research Fellow
 
-         University of Florida, USA
+  University of Florida, USA
 
-(2021-2022) Postdoctoral Researcher
+- (2021-2022) Postdoctoral Researcher
 
-         Eindhoven University of Technology, Netherlands
+  Eindhoven University of Technology, Netherlands
 
-(2017-2021) PhD em Ciência da Computação
+- (2017-2021) PhD em Ciência da Computação
 
-         University of Glasgow, Scotland
+  University of Glasgow, Scotland
 
-(2013-2017) BSc em Matemática e suas Aplicações
+- (2013-2017) BSc em Matemática e suas Aplicações
 
-         University of Stirling, Scotland
+  University of Stirling, Scotland
 
 ## Link para o site pessoal
 

@@ -1,8 +1,8 @@
 ---
 categories:
-- Grau ou Cargo
-- Área de Pesquisa
-- Estado ou Localidade
+- "Cargo: Grau ou Cargo"
+- "Área: Área de Pesquisa"
+- "Local: Estado ou Localidade"
 draft: true
 title: Gustavo Freire
 ---

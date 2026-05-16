@@ -1,30 +1,18 @@
 ---
 categories:
-- Pós-Doc
-- Teoria dos Feixes
-- Machine Learning
-- Estado ou Localidade
-draft: true
+- "Cargo: Pós-Doc"
+- "Área: Teoria dos Feixes"
+- "Área: Quantales"
+- "Área: Redes Neurais em Grafos"
 title: Ana Luiza Tenório
 ---
 
-<!-- Substitua a linha abaixo pela sua imagem:
-<img src="sua_imagem.jpg" alt="Foto de Ana Tenório" width="400" style="max-width: 400px;"> -->
-
-Breve descrição ou biografia resumida.
+`<img src="ana-tenorio.jpg" alt="Foto de Ana Tenório" width="400" style="max-width: 400px;">`{=html}
 
 ## Instituição
 
-Nome da Instituição à qual o pesquisador está vinculado
-
-## Formação Acadêmica
-
-Lista da formação principal
+Escola de Matemática Aplicada da Fundação Getúlio Vargas (EMAp-FGV).
 
 ## Link para o site pessoal
 
 <https://sites.google.com/ime.usp.br/analuizatenorio>
-
-## Email
-
-...

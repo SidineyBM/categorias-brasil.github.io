@@ -1,7 +1,7 @@
 ---
 title: "Nome do Evento"
 date: "YYYY-MM-DD"
-categories: ["Local/Modalidade", "Tema"]
+categories: ["Local/Modalidade: Local/Modalidade", "Tema: Tema"]
 draft: true
 ---
 

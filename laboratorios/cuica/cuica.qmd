@@ -1,7 +1,7 @@
 ---
 categories:
-- Computational Complexity
-- Sheaf Theory
+- "Área: Computational Complexity"
+- "Área: Sheaf Theory"
 title: CUÍCA
 ---
 

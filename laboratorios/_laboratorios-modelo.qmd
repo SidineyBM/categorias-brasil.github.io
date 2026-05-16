@@ -1,6 +1,6 @@
 ---
 title: "Nome do Laboratório ou Grupo de Pesquisa"
-categories: ["Área de Atuação", "Local ou Instituição"]
+categories: ["Área: Área de Atuação", "Local: Local ou Instituição"]
 draft: true
 ---
 

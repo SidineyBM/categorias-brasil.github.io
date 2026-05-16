@@ -1,14 +1,14 @@
 ---
 categories:
-- Professor
-- Métodos Formais
-- Linguagens Diagramáticas
-- Teoria de Categorias Aplicada
-- Álgebra Linear Gráfica
-- Álgebra da Programação
-- String Diagrams
-- Álgebra Linear Computacional
-- RJ
+- "Cargo: Professor"
+- "Área: Métodos Formais"
+- "Área: Linguagens Diagramáticas"
+- "Área: Teoria de Categorias Aplicada"
+- "Área: Álgebra Linear Gráfica"
+- "Área: Álgebra da Programação"
+- "Área: String Diagrams"
+- "Área: Álgebra Linear Computacional"
+- "Local: Rio de Janeiro"
 title: João Antonio Recio da Paixão
 ---
 

@@ -1,9 +1,9 @@
 ---
 categories:
-- IC
-- Complexidade Computacional
-- Algoritmos em Grafos
-- São Paulo
+- "Cargo: Iniciação Científica"
+- "Área: Complexidade Computacional"
+- "Área: Algoritmos em Grafos"
+- "Local: São Paulo"
 title: Paulo Dias
 ---
 
@@ -19,10 +19,10 @@ Universidade de São Paulo (USP).
 
 ## Formação Acadêmica
 
-(2024 - 2027) Bacharelado em Ciência da Computação.
+- (2024 - 2027) Bacharelado em Ciência da Computação.
 
-      Instituto de Matemática, Estatística e Ciência da Computação (IME)
-      Universidade de São Paulo (USP)
+  Instituto de Matemática, Estatística e Ciência da Computação (IME)
+  Universidade de São Paulo (USP)
 
 ## Link para o site pessoal
 
