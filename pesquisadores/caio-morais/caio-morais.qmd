@@ -1,6 +1,6 @@
 ---
 categories:
-- "Cargo: Iniciação Científica"
+- "Grau: Iniciação Científica"
 - "Área: Área de Pesquisa"
 - "Local: Estado ou Localidade"
 draft: true

@@ -1,6 +1,6 @@
 ---
 categories:
-- "Cargo: Professor Doutor"
+- "Grau: Professor Doutor"
 - "Área: Complexidade Computacional"
 - "Área: Teoria dos Feixes"
 - "Local: São Paulo"
@@ -8,8 +8,6 @@ title: Benjamin Merlin Bumpus
 ---
 
 `<img src="bumpus2.webp" alt="Foto de Benjamin Merlin Bumpus" width="400" style="max-width: 400px;">`{=html}
-
-Benjamin Merlin Bumpus é um pesquisador.
 
 ## Instituição
 

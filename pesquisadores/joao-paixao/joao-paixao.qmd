@@ -1,6 +1,6 @@
 ---
 categories:
-- "Cargo: Professor"
+- "Grau: Professor"
 - "Área: Métodos Formais"
 - "Área: Linguagens Diagramáticas"
 - "Área: Teoria de Categorias Aplicada"

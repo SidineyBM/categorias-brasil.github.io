@@ -1,6 +1,6 @@
 ---
 categories:
-- "Cargo: Doutorado"
+- "Grau: Doutorado"
 - "Área: Complexidade Parametrizada"
 - "Área: Teoria dos Grafos"
 - "Local: São Paulo"

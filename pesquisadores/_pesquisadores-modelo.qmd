@@ -1,6 +1,6 @@
 ---
 title: "Nome do Pesquisador(a)"
-categories: ["Cargo: Grau ou Cargo", "Área: Área de Pesquisa", "Local: Estado ou Localidade"]
+categories: ["Grau: Grau ou Cargo", "Área: Área de Pesquisa", "Local: Estado ou Localidade"]
 draft: true
 ---
 

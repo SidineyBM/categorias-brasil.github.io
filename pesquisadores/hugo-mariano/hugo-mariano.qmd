@@ -1,6 +1,6 @@
 ---
 categories:
-- "Cargo: Professor Associado"
+- "Grau: Professor Associado"
 - "Área: Lógica"
 - "Área: Álgebra"
 - "Local: São Paulo"

@@ -1,7 +1,7 @@
 ---
 categories:
-- "Área: Computational Complexity"
-- "Área: Sheaf Theory"
+- "Área: Complexidade Computacional"
+- "Área: Teoria dos Feixes"
 title: CUÍCA
 ---
 
@@ -32,15 +32,3 @@ Universidade de São Paulo (USP).
   Gesteira](../../pesquisadores/lucas-gesteira/lucas-gesteira.qmd)
 - [Paulo Dias](../../pesquisadores/paulo-dias/paulo-dias.qmd)
 - [Will Turner](https://wjturner.co.uk/)
-
-## Localização
-
-...
-
-## Link para o site
-
-...
-
-## Email de contato
-
-...

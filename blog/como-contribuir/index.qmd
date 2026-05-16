@@ -35,8 +35,9 @@ Você também pode incluir novos materiais no Acervo, divulgar novos eventos, ou
 realizar postagens no Blog. A estrutura é baseada em arquivos Markdown simples,
 facilitando a adição de novos conteúdos.
 
-## Licença
+## Licença e Direitos Autorais
 
-Ao contribuir, você aceita que seu trabalho será disponibilizado sob a licença
-MIT, permitindo que a comunidade continue a utilizar e melhorar o site de forma
-livre e aberta.
+Este repositório utiliza duas licenças diferentes para separar o código-fonte estrutural do conteúdo original. Ao contribuir, você concorda que o seu trabalho será disponibilizado sob os seguintes termos:
+
+- **Código-fonte e Templates:** O código estrutural, os estilos CSS e os templates Quarto baseados no projeto original estão licenciados sob a [MIT License](https://github.com/categorias-brasil/categorias-brasil.github.io/blob/main/LICENSE) (Copyright 2020 AlgebraicJulia).
+- **Conteúdo e Textos:** Todos os artigos, posts de blog, dados de pesquisadores, tutoriais e demais conteúdos textuais criados pelo Categorias Brasil e seus contribuidores estão licenciados sob a [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).

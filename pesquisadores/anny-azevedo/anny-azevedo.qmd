@@ -1,6 +1,6 @@
 ---
 categories:
-- "Cargo: Mestrado"
+- "Grau: Mestrado"
 - "Área: Teoria dos Feixes"
 - "Área: Complexidade Computacional"
 - "Área: Topologia Geral"

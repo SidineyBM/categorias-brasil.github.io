@@ -1,6 +1,6 @@
 ---
 categories:
-- "Cargo: Pós-Doc"
+- "Grau: Pós-Doc"
 - "Área: Teoria dos Feixes"
 - "Área: Quantales"
 - "Área: Redes Neurais em Grafos"

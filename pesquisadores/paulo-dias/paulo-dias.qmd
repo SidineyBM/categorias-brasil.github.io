@@ -1,6 +1,6 @@
 ---
 categories:
-- "Cargo: Iniciação Científica"
+- "Grau: Iniciação Científica"
 - "Área: Complexidade Computacional"
 - "Área: Algoritmos em Grafos"
 - "Local: São Paulo"

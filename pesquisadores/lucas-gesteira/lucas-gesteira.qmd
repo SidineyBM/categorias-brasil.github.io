@@ -1,6 +1,6 @@
 ---
 categories:
-- "Cargo: Grau ou Cargo"
+- "Grau: Grau ou Cargo"
 - "Área: Área de Pesquisa"
 - "Local: Estado ou Localidade"
 draft: true
@@ -22,7 +22,7 @@ Lista da formação principal
 
 ## Link para o site pessoal
 
-<https://seusite.com>
+...
 
 ## Email
 
