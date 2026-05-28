@@ -1,0 +1,22 @@
+---
+categories:
+- "Grau: Professor"
+- "Área: Geometria Algébrica"
+- "Local: SP"
+title: Marcos Jardim
+---
+
+A minha área principal de pesquisa é a Geometria Algébrica, e nesse contexto eu
+trabalho com categorias abelianas e trianguladas, especialmente a categoria de
+feixes coerentes sobre um esquema projetivo e a categoria derivada deste. De
+particular interesse é a noção de estabilidade em categorias abelianas e
+trianguladas.
+
+## Instituição
+
+Instituto de Matemática, Estatística e Computação Científica (IMECC) da
+Universidade Estadual de Campinas (UNICAMP).
+
+## Currículo Lattes
+
+<https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4797291E8>

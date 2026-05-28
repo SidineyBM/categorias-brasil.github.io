@@ -1,0 +1,22 @@
+---
+categories:
+- "Grau: Doutorado"
+- "Área: Categorias Tannakianas"
+- "Área: Geometria Algébrica"
+- "Área: Topologia Algébrica"
+- "Local: SP"
+title: Nelson Prata Pravato Serrano
+---
+
+`<img src="nelson-serrano.jpg" alt="Foto do pesquisador(a)" width="400" style="max-width: 400px;">`{=html}
+
+Atualmente eu estudo categorias Tannakianas, com foco na categoria de fibrados
+unipotentes sobre k-esquemas.
+
+## Instituição
+
+Universidade Estadual de Campinas (Unicamp).
+
+## Currículo Lattes
+
+<http://lattes.cnpq.br/2031376373943263>

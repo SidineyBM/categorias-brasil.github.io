@@ -1,0 +1,21 @@
+---
+categories:
+- "Grau: Professor Titular"
+- "Área: Teoria de Representações de Álgebras"
+- "Área: Módulos sobre K-Categorias"
+- "Local: SP"
+title: Eduardo do Nascimento Marcos
+---
+
+A teoria das categorias surge no meu estudo como ferramenta, em particular
+estudo ideias particulares das categorias derivadas, subcategorias da categoria
+de módulos, etc...
+
+## Instituição
+
+Instituto de Matemática, Estatística e Ciência da Computação (IME) da
+Universidade de São Paulo (USP).
+
+## Currículo Lattes
+
+<http://lattes.cnpq.br/4654251951434427>

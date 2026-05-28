@@ -1,0 +1,20 @@
+---
+categories:
+- "Grau: Professor Substituto"
+- "Área: Combinatória Infinita"
+- "Local: PR"
+title: Gustavo Henrique Labegalini Boska
+---
+
+Use of the functorialization of end-spaces and edge end-spaces to extend results
+of finite combinatorics into an infinite setting. Study of combinatorial
+representation of continuous maps under such functors. Finding interesting
+categories and invariants under these constructions.
+
+## Instituição
+
+Universidade Tecnológica Federal do Paraná (UTFPR) - Curitiba.
+
+## Currículo Lattes
+
+<https://lattes.cnpq.br/9858968452979652>

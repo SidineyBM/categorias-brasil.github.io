@@ -1,0 +1,15 @@
+---
+categories:
+- "Grau: Professor"
+- "Área: Linguagens Diagramáticas"
+- "Local: RJ"
+title: Eduardo Nahum Ochs
+---
+
+## Instituição
+
+Universidade Federal Fluminense (UFF) - Rio das Ostras.
+
+## Link para o site pessoal
+
+<https://anggtwu.net/math-b.html>
